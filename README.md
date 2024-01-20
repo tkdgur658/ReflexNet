@@ -22,7 +22,7 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `main.ipynb`: Python script file, containing the implementation of the main excution of experiments.
+- `main.ipynb`: Main excution ipynb file, containing the implementation of our experiments.
 - `metrics.py`: Python script file, containing the implementation of evaluation metrics for semantic segmentation.
 - `train.py`: Python script file, containing the implementation of trainig and evaluation process.
 - `utils.py`: Python script file, containing the implementation of several util function for this experiments.

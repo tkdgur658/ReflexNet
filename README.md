@@ -22,6 +22,10 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `main.py`: Python script file, containing the PyTorch implementation of the training and evaluation process of the ReflexNet.
-- `model.py`: Python script file, containing the PyTorch implementation of the ReflexNet.
+- `main.ipynb`: Python script file, containing the implementation of the main experiments using training and evaluation process of the ReflexNet.
+- 'metrics.py': Python script file, containing the implementation of evaluation metrics for semantic segmentation.
+- 'train.py': Python script file, containing the implementation of trainig and evaluation process.
+- 'utils.py': Python script file, containing the implementation of several util function for this experiments.
+- 'data_loader.py': Python script file, containing the implementation of the data loader for this experiments.
+- `ReflexNet.py`: Python script file, containing the implementation of the ReflexNet.
 - `README.md`: Markdown file explaining the model source code.

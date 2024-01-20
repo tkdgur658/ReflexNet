@@ -11,7 +11,7 @@ The paper which includes the detail of this implementation is in the process of 
 If you use this software for your research, please cite:
 
 ```bibtex
-@inproceedings{noori2019attention,
+@article{noori2019attention,
   title={Effective encoder-decoder network for pupil light reflex segmentation in facial photographs of ptosis patients},
   author={Sanghyuck Lee, Taekyung Song, Jeong Kyu Lee, and Jaesung Lee},
 }
